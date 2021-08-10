@@ -1,8 +1,8 @@
 ## Ola, eu sou Matheus  👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Henrique-Burey&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henrique-Burey&theme=radical&hide_border=true&layout=compact"/>
+  <img height="180em" width="400px"src="https://github-readme-stats.vercel.app/api?username=Matheus-Henrique-Burey&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henrique-Burey&theme=radical&hide_border=true&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js-langs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
