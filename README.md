@@ -1,7 +1,6 @@
 ## Ola, eu sou Matheus  👋
 
 <div>
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Henrique-Burey&show_icons=true&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henrique-Burey&theme=radical&hide_border=true&layout=compact"/>
 </div>
