@@ -1,4 +1,4 @@
-## Ola, eu sou Matheus  👋
+## Ola, sou Matheus  👋
 
 <div>
   <img height="180em" width="400px"src="https://github-readme-stats.vercel.app/api?username=Matheus-Henrique-Burey&show_icons=true&theme=radical&hide_border=true"/>
@@ -14,11 +14,10 @@
   ##
  Um pouco sobre mim:
 
-- 🔭 Atualmente estou não trabalhando.
+- 🔭 Atualmente não estou trabalhando.
 - 🌱 Atualmente estou aprendendo Js, Css, HTML5.
-- 👯 Estou procurando colaborar em Open Sorce.
-- 🤔 Estou procurando ajuda com.
-- 📫 How to reach me:
+- 👯 Estou procurando colaborar em projetos *Open Sorce*.
+- 📫 Como me encontrar:
   
   <a href="https://www.instagram.com/matheusburey" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-h-burei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
