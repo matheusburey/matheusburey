@@ -17,5 +17,6 @@
 - 🔭 Atualmente não estou trabalhando.
 - 🌱 Atualmente estou aprendendo Js, Css, HTML5.
 - 👯 Estou procurando colaborar em projetos *Open Sorce*.
-- 📫 Como me encontrar em contato:
+- 📫 Como me encontrar:
+
   <a href="https://www.linkedin.com/in/matheus-h-burei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
