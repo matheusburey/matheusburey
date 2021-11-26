@@ -14,7 +14,7 @@
   ##
  Um pouco sobre mim:
 
-- 🔭 Atualmente não estou trabalhando.
+- 🔭 Atualmente estou trabalhando como coach na [Kenzie Academy Brasil](https://kenzie.com.br).
 - 🌱 Atualmente estou aprendendo Js, Css, HTML5.
 - 👯 Estou procurando colaborar em projetos *Open Sorce*.
 - 📫 Como me encontrar:
