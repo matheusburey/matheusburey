@@ -9,11 +9,12 @@
 }
 
 ---
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Matheus-Henrique-Burey&theme=radical&hide_border=true&show_icons=true&line_height=25)
-&nbsp;&nbsp;<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henrique-Burey&theme=radical&hide_border=true&layout=compact&langs_count=8"/>
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Henrique-Burey&theme=radical&hide_border=true&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henrique-Burey&theme=radical&hide_border=true&layout=compact"/>
+</div>
 
 ---
-
 My hard skills:
  - Front End:&nbsp;&nbsp;
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
