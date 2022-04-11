@@ -36,7 +36,7 @@ My hard skills:
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- ![HTML Badge]() -->
 
-  ##
+ ---
  A little about myself:
 
 - 🔭 I'm currently looking for work.
