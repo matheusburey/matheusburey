@@ -34,6 +34,7 @@ Always learning, experimenting and improving both technical skills and product d
     <td><strong>Backend</strong></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="24" height="24" alt="Go"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="Node.js"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="24" height="24" alt="NestJS"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="24" height="24" alt="FastAPI"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" alt="Django"/></td>
@@ -54,6 +55,7 @@ Always learning, experimenting and improving both technical skills and product d
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="24" height="24" alt="Terraform"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="24" height="24" alt="AWS"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24" alt="Linux"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="24" height="24" alt="Vercel"/></td>
   </tr>
   <tr>
     <td><strong>Mobile</strong></td>
